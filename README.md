@@ -36,6 +36,6 @@ This portfolio showcases projects that demonstrate my ability to:
 
 
 
-## 📬 Contact
-- LinkedIn: (add your link)
-- Email: (your email)
+##  Contact
+- LinkedIn:http://linkedin.com/in/aashika-nandinicn
+- Email: aashika.nandini2124@gmail.com
