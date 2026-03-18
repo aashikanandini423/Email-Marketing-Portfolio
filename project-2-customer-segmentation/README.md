@@ -26,11 +26,13 @@ FROM customers
 WHERE total_spent > 500;
 
 ### 2.Inactive Customers (Win-back)
+```sql
 SELECT *
 FROM customers
 WHERE last_purchase_date < '2025-01-01';
 
 ### 3.Frequent Buyers
+```sql
 SELECT *
 FROM customers
 WHERE total_orders >= 5;
