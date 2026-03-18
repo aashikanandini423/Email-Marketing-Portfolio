@@ -1,4 +1,11 @@
 # Project 1: Lifecycle Email Journey (Onboarding + Conversion)
+## Project Description
+
+Developed SQL-based customer segmentation to enable targeted and personalized marketing campaigns.
+
+Analyzed customer data to identify key segments such as high-value users, inactive users, and frequent buyers using behavioral and transactional attributes. Wrote SQL queries to extract actionable insights and support audience targeting.
+
+Applied segmentation strategies to align marketing messages with user behavior, improving relevance and engagement. Demonstrated how data-driven segmentation can enhance campaign performance and optimize resource allocation.
 
 ## Objective
  To design and implement a scalable lifecycle email journey to onboard new users and drive first purchase conversion.
@@ -13,7 +20,7 @@ New users sign up but fail to convert into paying customers within the first 7 d
 ## Solution Approach
 Implemented a 3-stage onboarding journey to:
 - Educate users about product value
-- Build trust
+- Increase Engagement
 - Encourage first purchase through incentives
 
 ## Journey Architecture
