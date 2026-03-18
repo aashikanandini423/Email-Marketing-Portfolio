@@ -1,6 +1,6 @@
 # Email-Marketing-Portfolio
 
-Hi, I'm Aashika
+Hi, I'm Aashika Nandini
 I am building my skills in Salesforce Marketing Cloud, email marketing, customer journeys, and marketing automation.
 
 This portfolio showcases projects that demonstrate my ability to:
@@ -9,29 +9,37 @@ This portfolio showcases projects that demonstrate my ability to:
 - Design and evaluate A/B email campaigns
 - Work with HTML email templates
 
- Projects
+Apart from these I have also have hands on experience to Integrate SalesCloud to Marketing Cloud Using Marketing Cloud Connect.
+Created Automations Using Automation Studio
+
+ ## Projects
 
 ### 1. Welcome Email Journey
-- Designed a 3-step onboarding journey for new users
-- Included welcome, feature, and offer emails
-- Focused on improving user engagement
-
+- Designed a multi-step lifecycle email journey to improve onboarding and engagement.
+- Implemented time-based email sequencing to guide users toward conversion.
+- Applied customer journey thinking to improve user experience.
 ### 2. Customer Segmentation with SQL
-- Created customer segments (active, inactive, high-value)
-- Used SQL queries to target different audiences
-- Demonstrated how segmentation improves marketing performance
+- Developed SQL queries to segment customers based on behavior and engagement.
+- Identified high-value and inactive users to support targeted campaigns.
+- Applied data-driven segmentation to improve campaign relevance.
 
 ### 3. A/B Testing Email Campaign
-- Tested different subject lines
-- Compared open rates and engagement
-- Analyzed results to optimize campaigns
+- Executed A/B testing to evaluate campaign performance and optimize messaging.
+- Analyzed results to identify high-performing subject lines.
+- Improved engagement by testing personalization strategies.
 
 ## Skills
-- Salesforce Marketing Cloud (concepts)
+- Salesforce Marketing Cloud
 - Email Marketing
-- Journey Builder (concept)
-- SQL basics
-- HTML/CSS basics
+- Journey Builder
+- Content Builder
+- Automation Studio
+- Contact Builder
+- AMPScript
+- SSJS
+- REST Apis
+- SQL 
+- HTML/CSS 
 - Campaign analysis & A/B testing
 
 
