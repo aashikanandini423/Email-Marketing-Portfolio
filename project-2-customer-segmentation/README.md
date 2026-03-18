@@ -1,4 +1,11 @@
 # Project 2: Customer Segmentation & SQL-Based Targeting
+## Description
+
+Developed SQL-based customer segmentation to enable targeted and personalized marketing campaigns.
+
+Analyzed customer data to identify key segments such as high-value users, inactive users, and frequent buyers using behavioral and transactional attributes. Wrote SQL queries to extract actionable insights and support campaign targeting.
+
+Applied segmentation strategies to align marketing messages with user behavior, improving relevance and engagement. Demonstrated how data-driven segmentation can enhance campaign performance and optimize resource allocation.
 
 ## Objective
 Use SQL to segment customers into actionable groups for targeted marketing campaigns.
@@ -6,6 +13,7 @@ Use SQL to segment customers into actionable groups for targeted marketing campa
 ## Dataset Overview
 Fields used:
 - customer_id
+- firstname
 - email
 - total_orders
 - total_spent
