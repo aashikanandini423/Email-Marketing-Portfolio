@@ -28,6 +28,12 @@ Created Automations Using Automation Studio
 - Analyzed results to identify high-performing subject lines.
 - Improved engagement by testing personalization strategies.
 
+### 4.Cross Channel Campaigns
+-Designed a multi-channel CRM automation to re-engage inactive users and reduce churn using personalized email and SMS communication.
+-Built a behavioral-triggered workflow targeting users with no activity in the past 30 days. Implemented conditional logic to deliver different communication paths based on user engagement, including email follow-ups and SMS fallback for non-openers.
+-Incorporated personalization techniques using dynamic placeholders to create a tailored user experience. Applied lifecycle marketing and automation concepts to improve re-engagement rates and maximize campaign reach.
+-Tracked key metrics such as re-engagement rate, conversion rate, and campaign performance (simulated), demonstrating the effectiveness of multi-channel communication strategies in customer retention.
+
 ## Skills
 - Salesforce Marketing Cloud
 - Email Marketing
