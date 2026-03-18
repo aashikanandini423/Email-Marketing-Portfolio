@@ -1,0 +1,6 @@
+customer_id,first_name,email,total_orders,total_spent,last_purchase_date,last_activity_date
+1,Aashika,a1@gmail.com,5,600,2025-02-10,2025-02-15
+2,Riya,r2@gmail.com,1,50,2024-12-01,2024-12-05
+3,John,j3@gmail.com,8,1200,2025-03-01,2025-03-05
+4,Meera,m4@gmail.com,0,0,2024-10-10,2024-10-10
+5,Sam,s5@gmail.com,3,200,2025-01-20,2025-01-22
