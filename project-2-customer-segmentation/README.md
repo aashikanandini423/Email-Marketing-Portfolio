@@ -18,8 +18,7 @@ Generic campaigns result in low engagement due to lack of personalization.
 Created behavioral segments to target users with relevant messaging.
 
 ## Segments & SQL Logic
-
-### 1. High-Value Customers
+1. High-Value Customers
 ```sql
 SELECT *
 FROM customers
